@@ -1,0 +1,107 @@
+```html
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politique de confidentialité - OMNIYAT</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            line-height: 1.7;
+            color: #333;
+            background: #f5f5f5;
+        }
+        .container {
+            background: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #0F62FE;
+        }
+        footer {
+            margin-top: 30px;
+            text-align: center;
+            color: #666;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+<h1>Politique de confidentialité</h1>
+
+<p><strong>Dernière mise à jour :</strong> 29 juillet 2026</p>
+
+<p>La société <strong>OMNIYAT</strong> s'engage à protéger la confidentialité des utilisateurs de ses applications mobiles. Cette politique explique quelles informations peuvent être collectées, comment elles sont utilisées et quels sont vos droits.</p>
+
+<h2>1. Collecte des informations</h2>
+
+<p>Selon les fonctionnalités de l'application, nous pouvons collecter les informations suivantes :</p>
+
+<ul>
+    <li>Informations techniques relatives à votre appareil (modèle, système d'exploitation, langue, version de l'application).</li>
+    <li>Données de diagnostic et rapports de plantage afin d'améliorer la stabilité de l'application.</li>
+    <li>Statistiques d'utilisation anonymes lorsque ces fonctionnalités sont activées.</li>
+</ul>
+
+<p>Nous ne collectons pas de données personnelles sans votre consentement explicite.</p>
+
+<h2>2. Utilisation des données</h2>
+
+<p>Les informations collectées sont utilisées uniquement pour :</p>
+
+<ul>
+    <li>Assurer le bon fonctionnement de l'application.</li>
+    <li>Améliorer les performances et l'expérience utilisateur.</li>
+    <li>Corriger les erreurs techniques.</li>
+    <li>Garantir la sécurité du service.</li>
+</ul>
+
+<h2>3. Partage des données</h2>
+
+<p>OMNIYAT ne vend ni ne loue vos données personnelles. Les informations peuvent être partagées uniquement avec des prestataires techniques indispensables au fonctionnement de l'application ou lorsque la loi l'exige.</p>
+
+<h2>4. Services tiers</h2>
+
+<p>Selon les fonctionnalités utilisées, l'application peut intégrer des services tels que Google Play Services, Firebase ou AdMob. Ces services sont soumis à leurs propres politiques de confidentialité.</p>
+
+<h2>5. Sécurité</h2>
+
+<p>Nous mettons en œuvre des mesures techniques et organisationnelles raisonnables pour protéger vos informations contre tout accès, toute modification ou toute divulgation non autorisés.</p>
+
+<h2>6. Conservation des données</h2>
+
+<p>Les données sont conservées uniquement pendant la durée nécessaire aux finalités décrites dans cette politique ou conformément aux obligations légales applicables.</p>
+
+<h2>7. Vos droits</h2>
+
+<p>Vous pouvez demander l'accès, la rectification ou la suppression de vos données personnelles, dans les limites prévues par la législation applicable.</p>
+
+<h2>8. Modifications de cette politique</h2>
+
+<p>Cette politique de confidentialité peut être modifiée à tout moment. Toute mise à jour sera publiée sur cette page avec la date de dernière révision.</p>
+
+<h2>9. Nous contacter</h2>
+
+<p>
+<strong>Entreprise :</strong> OMNIYAT<br>
+<strong>E-mail :</strong> contact@omniyat.org
+</p>
+
+<footer>
+© 2026 OMNIYAT. Tous droits réservés.
+</footer>
+
+</div>
+
+</body>
+</html>
+```
